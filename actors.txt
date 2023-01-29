@@ -6,6 +6,6 @@ ACTORS
 French actors
 -----------------
 
-Arnaut Ducré
+Arnaud Ducret
 Virginie Efira
 Vincent Lacoste
