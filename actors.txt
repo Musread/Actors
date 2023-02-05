@@ -9,3 +9,12 @@ American actors
 Johnny Deep
 Leonardo Dicaprio
 George Clooney
+
+-----------------
+French actors
+-----------------
+
+Arnaud Ducret
+Virginie Efira
+Vincent Lacoste
+
